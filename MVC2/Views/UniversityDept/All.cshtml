@@ -1,0 +1,27 @@
+﻿@model IEnumerable<MVC2.Models.Department>
+
+<table class="table">
+    <tr>
+    <th>
+        @Html.DisplayNameFor(d=>d.Code)
+        </th>
+    <th>
+        @Html.DisplayNameFor(d => d.Name)
+        </th>
+    </tr>
+@foreach (var aDept in Model)
+{ 
+    <tr>
+        <td>
+@Html.DisplayFor(d=>aDept.Code)
+        </td>
+
+        <td>
+            @Html.DisplayFor(d=>aDept.Name)
+
+       </td>
+  </tr>
+}
+
+    
+    </table>

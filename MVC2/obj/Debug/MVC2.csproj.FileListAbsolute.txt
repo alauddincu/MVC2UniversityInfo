@@ -1,0 +1,182 @@
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\MVC2.dll.config
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\MVC2.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\MVC2.pdb
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Antlr3.Runtime.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\EntityFramework.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\EntityFramework.SqlServer.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Newtonsoft.Json.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Owin.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\System.Web.Helpers.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\System.Web.Mvc.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\System.Web.Optimization.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\System.Web.Razor.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.Razor.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\WebGrease.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\System.Web.Helpers.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\System.Web.Mvc.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\System.Web.Optimization.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\System.Web.Razor.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.Razor.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Newtonsoft.Json.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Antlr3.Runtime.pdb
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\EntityFramework.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\EntityFramework.SqlServer.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.dll
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.pdb
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.csprojResolveAssemblyReference.cache
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.Migrations.InitialCreate.resources
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.csproj.GenerateResource.Cache
+C:\Users\alauddin dipu\Desktop\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.Migrations.Student.resources
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\MVC2.dll.config
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\MVC2.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\MVC2.pdb
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Antlr3.Runtime.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\EntityFramework.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\EntityFramework.SqlServer.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.Core.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Cookies.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Facebook.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Google.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.OAuth.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Twitter.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Web.Infrastructure.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Newtonsoft.Json.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Owin.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.Helpers.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.Mvc.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.Optimization.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.Razor.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.Deployment.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.Razor.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\WebGrease.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.Helpers.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.Mvc.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.Optimization.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.Razor.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.Deployment.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.Razor.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Newtonsoft.Json.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Antlr3.Runtime.pdb
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\EntityFramework.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\EntityFramework.SqlServer.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.Core.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Facebook.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Cookies.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.OAuth.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Google.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Twitter.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.csprojResolveAssemblyReference.cache
+G:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.Migrations.InitialCreate.resources
+G:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.Migrations.Student.resources
+G:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.Migrations.teacher.resources
+G:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.Migrations.Course.resources
+G:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.Migrations.recheck.resources
+G:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.Migrations.cattt.resources
+G:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.csproj.GenerateResource.Cache
+G:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.dll
+G:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.pdb
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\MVC2.dll.config
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\MVC2.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\MVC2.pdb
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Antlr3.Runtime.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\EntityFramework.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\EntityFramework.SqlServer.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.Core.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Cookies.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Facebook.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Google.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.OAuth.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Twitter.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Web.Infrastructure.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Newtonsoft.Json.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Owin.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.Helpers.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.Mvc.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.Optimization.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.Razor.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.Deployment.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.Razor.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\WebGrease.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.Helpers.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.Mvc.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.Optimization.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.Razor.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.Deployment.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\System.Web.WebPages.Razor.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Newtonsoft.Json.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Antlr3.Runtime.pdb
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\EntityFramework.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\EntityFramework.SqlServer.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.Core.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Facebook.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Cookies.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.OAuth.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Google.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.Twitter.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.csprojResolveAssemblyReference.cache
+H:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.Migrations.InitialCreate.resources
+H:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.Migrations.Student.resources
+H:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.Migrations.teacher.resources
+H:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.Migrations.Course.resources
+H:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.Migrations.recheck.resources
+H:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.Migrations.cattt.resources
+H:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.csproj.GenerateResource.Cache
+H:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.dll
+H:\FTFL3\Track\Projects\MVC2\MVC2\obj\Debug\MVC2.pdb
